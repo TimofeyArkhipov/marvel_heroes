@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e9c14475.css",
+    "main.js": "/static/js/main.ed7e8629.js",
+    "static/js/787.c81e77b4.chunk.js": "/static/js/787.c81e77b4.chunk.js",
+    "static/media/wp2766824.jpg": "/static/media/wp2766824.976a2af90dd715af7094.jpg",
+    "static/media/Marvel_Logo.png": "/static/media/Marvel_Logo.19ad144b5dbf9dd78668.png",
+    "index.html": "/index.html",
+    "main.e9c14475.css.map": "/static/css/main.e9c14475.css.map",
+    "main.ed7e8629.js.map": "/static/js/main.ed7e8629.js.map",
+    "787.c81e77b4.chunk.js.map": "/static/js/787.c81e77b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c14475.css",
+    "static/js/main.ed7e8629.js"
+  ]
+}
